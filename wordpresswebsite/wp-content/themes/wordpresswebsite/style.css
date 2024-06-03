@@ -1,0 +1,20 @@
+/*======================
+
+Theme Name: Practice Website
+Theme Uril: # 
+Version: 1.0.0
+Author: Md Tuhin Mia
+Author Uri: http//www.com
+Text Domain: tuhinmia
+Requires at least: 5.9
+Requires PHP: 5.6
+Description: I am lerning wordpress development
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, style-variations, wide-blocks, block-styles, accessibility-ready, blog, portfolio, news
+
+Twenty Twenty-Two WordPress Theme, (C) 2021 WordPress.org
+Twenty Twenty-Two is distributed under the terms of the GNU GPL.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+===========================*/
+body{ background-color: red;}
